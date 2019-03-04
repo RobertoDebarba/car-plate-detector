@@ -29,7 +29,7 @@ Algorithm for vehicle registration plate detection using [opencv-python](https:/
 ## Authors
 
 * [Roberto Luiz Debarba](https://github.com/RobertoDebarba)
-* [Matheus Adriano Pereira](https://github.com/Itatakaru)
+* [Matheus Adriano Pereira](https://github.com/matheusPereiraKrumm)
 
 ## License
 
